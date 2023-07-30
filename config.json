@@ -1,0 +1,59 @@
+{
+  "cooldown": 600000,
+  "sendChannel": "Channel ID",
+  "token": "Bot Token",
+  "embed": {
+    "title": "Embed Title",
+    "description": "Embed text"
+  },
+  "buttons": [
+    {
+      "label": "Button 1",
+      "id": "button01",
+      "responses": [
+        "result 1",
+        "result 2",
+        "result 3",
+        "result 4",
+        "result 5",
+        "result 6",
+        "result 7",
+        "result 8",
+        "result 9",
+        "result 10"
+      ]
+    },
+    {
+      "label": "Button 2",
+      "id": "button02",
+      "responses": [
+        "result 1",
+        "result 2",
+        "result 3",
+        "result 4",
+        "result 5",
+        "result 6",
+        "result 7",
+        "result 8",
+        "result 9",
+        "result 10"
+      ]
+    },
+    {
+      "label": "Button 3",
+      "id": "button03",
+      "responses": [
+        "result 1",
+        "result 2",
+        "result 3",
+        "result 4",
+        "result 5",
+        "result 6",
+        "result 7",
+        "result 8",
+        "result 9",
+        "result 10"
+      ]
+    }
+  ]
+}
